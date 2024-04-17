@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <external-path
+        name="camera_photos"
+        path="."/>
+    <external-path
+        name="files_root"
+        path="Android/data/com.ijuyin.prints.news/"/>
+    <external-path
+        name="external_storage_root"
+        path="."/>
+    <external-path name="my_images" path="."/>
+</paths>
+
+
+    <!--<path xmlns:android="http://schemas.android.com/apk/res/android">-->
+    <!--    <external-path name="my_images" path=""/>-->
+    <!--</path>-->

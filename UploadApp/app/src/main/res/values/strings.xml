@@ -1,0 +1,7 @@
+<resources>
+    <string-array name="action_options">
+        <item>生成二维码</item>
+        <item>扫描二维码</item>
+    </string-array>
+
+</resources>

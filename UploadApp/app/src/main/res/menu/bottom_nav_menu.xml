@@ -1,0 +1,13 @@
+<!-- bottom_navigation_menu.xml -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_generate_qr_code"
+        android:title="生成二维码"
+        android:icon="@drawable/ic_generate_qr_code" />
+
+    <item
+        android:id="@+id/menu_scan_qr_code"
+        android:title="扫描二维码"
+        android:icon="@drawable/ic_scan_qr_code" />
+
+</menu>

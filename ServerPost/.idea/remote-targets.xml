@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteTargetsManager">
+    <option name="projectDefaultTargetUuid" value="5c782f16-9720-48c6-91c4-16f6259347dd" />
+    <targets>
+      <target name="root@39.105.200.134:22" type="ssh/sftp" uuid="5c782f16-9720-48c6-91c4-16f6259347dd">
+        <config>
+          <option name="projectRootOnTarget" value="/root/BlockChainServer" />
+          <option name="serverName" value="root@39.105.200.134:22 password" />
+        </config>
+        <ContributedStateBase type="JavaLanguageRuntime">
+          <config>
+            <option name="homePath" value="/usr/local/jdk-18.0.2.1" />
+            <option name="javaVersionString" value="18.0.2" />
+          </config>
+        </ContributedStateBase>
+      </target>
+    </targets>
+  </component>
+</project>

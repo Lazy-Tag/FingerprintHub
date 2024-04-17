@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="ServerGet:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="57a90cdb-59fe-48b8-9a13-8f8ce2eb5bac" name="更改" comment="add login">
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/csv-editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/1.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/3.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/4.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/test" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C++/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/2.sy" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/2.sy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/copy.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/copy.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/detail.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/detail.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/grammerAnalyzer.y" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/grammerAnalyzer.y" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/graph.dot" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/graph.dot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/graph.png" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/graph.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/lex.yy.c" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/lex.yy.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/lexAnalyzer.l" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/lexAnalyzer.l" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/mc" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/mc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/run.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/run.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/test.sy" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/test.sy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/tree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/y.tab.c" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/y.tab.c" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2QmT6nFeueHTL2oIJbJnki4N74V" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.highlight.mappings&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.highlight.symlinks&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.date&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.permissions&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.size&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/HBW/Desktop/ServerPost&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;工件&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.09293681&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="应用程序.Main">
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+      <module name="ServerGet" />
+      <target name="root@39.105.200.134:22" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BlockChainServer" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <target name="@@@LOCAL@@@" />
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Maven.BlockChainServer" />
+      <item itemvalue="应用程序.Main" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="57a90cdb-59fe-48b8-9a13-8f8ce2eb5bac" name="更改" comment="" />
+      <created>1685957585217</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685957585217</updated>
+      <workItem from="1685957586169" duration="78000" />
+      <workItem from="1685957677363" duration="1543000" />
+      <workItem from="1685959237319" duration="1892000" />
+      <workItem from="1685961150700" duration="864000" />
+      <workItem from="1685962027221" duration="4789000" />
+      <workItem from="1685967308771" duration="414000" />
+      <workItem from="1685967742458" duration="8332000" />
+      <workItem from="1685978732648" duration="46000" />
+      <workItem from="1685978809623" duration="29000" />
+      <workItem from="1685979333915" duration="40000" />
+      <workItem from="1685979707716" duration="44000" />
+      <workItem from="1685981307332" duration="16000" />
+      <workItem from="1685983344708" duration="11000" />
+      <workItem from="1685983467967" duration="25000" />
+      <workItem from="1685985452659" duration="550000" />
+      <workItem from="1685986200934" duration="400000" />
+      <workItem from="1686050263062" duration="42000" />
+      <workItem from="1686057298336" duration="5865000" />
+      <workItem from="1686111129746" duration="10447000" />
+      <workItem from="1686137330887" duration="1274000" />
+      <workItem from="1686395634130" duration="2012000" />
+      <workItem from="1686837467239" duration="782000" />
+      <workItem from="1686881986141" duration="727000" />
+      <workItem from="1686884456551" duration="12839000" />
+      <workItem from="1687265528412" duration="7256000" />
+      <workItem from="1687419852327" duration="6026000" />
+      <workItem from="1687497678154" duration="2973000" />
+    </task>
+    <task id="LOCAL-00001" summary="add login">
+      <created>1686123346112</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1686123346112</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add login">
+      <created>1686123426120</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1686123426120</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add login" />
+    <option name="LAST_COMMIT_MESSAGE" value="add login" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>区块链上传</title>
+    <script>
+    function processString() {
+      var input = document.getElementById("inputString").value;
+      // 在这里添加你想要处理字符串的JavaScript代码
+      // 例如，你可以在这里对字符串进行大小写转换或其他操作
+      var processedString = input.toUpperCase();
+      alert("处理后的字符串: " + processedString);
+    }
+  </script>
+</head>
+<body>
+<h1>请输入您metaMask私钥上传</h1>
+<label for="inputString">私钥：</label>
+<input type="text" id="inputString" />
+<button onclick="processString()">处理</button>
+</body>
+</html>

@@ -1,0 +1,5 @@
+com.example.uploadApp.test.app-androidTest-0 C:\Users\HBW\Desktop\UploadApp\app\build\generated\res\resValues\androidTest\debug
+com.example.uploadApp.test.app-androidTest-1 C:\Users\HBW\Desktop\UploadApp\app\build\generated\res\rs\androidTest\debug
+com.example.uploadApp.test.app-mergeDebugAndroidTestResources-2 C:\Users\HBW\Desktop\UploadApp\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.uploadApp.test.app-mergeDebugAndroidTestResources-3 C:\Users\HBW\Desktop\UploadApp\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.uploadApp.test.app-merged_res-4 C:\Users\HBW\Desktop\UploadApp\app\build\intermediates\merged_res\debugAndroidTest
